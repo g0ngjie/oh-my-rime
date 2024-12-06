@@ -1,7 +1,6 @@
 # Rime dictionary
 # encoding: utf-8
 #
-# 个性化词语 - by @Mintimate
 # 建议自定义短语或者词语追加在这里
 ---
 name: custom_simple
@@ -9,5 +8,3 @@ version: "2023.11.30"
 sort: by_weight
 use_preset_vocabulary: true
 ...
-
-龚杰	gong jie
